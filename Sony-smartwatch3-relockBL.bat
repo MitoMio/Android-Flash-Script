@@ -1,1 +1,2 @@
 fastboot oem lock
+pause
