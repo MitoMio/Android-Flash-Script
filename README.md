@@ -1,2 +1,3 @@
 # Android-Flash-Script
-拖动对应img或zip文档到对应bat
+前提已安裝fastboot驅動程式和Google Adb驅動程式，可咨詢設備製造商獲取
+拖動zip檔或img檔到對應bat檔案圖標上
